@@ -1,0 +1,22 @@
+examples,intents
+Buongiorno devo organizzare il resto della giornata. Ho fatto il quiz a domande aperte. Mi potrebbe indicare cortesemente quanto tempo necessita la valutazione del quiz ?,Data_correzione_test
+Buongiorno indicativamente che tempi ci sono per la valutazione del test a risposte aperte? Grazie molte! ,Data_correzione_test
+domani il corso scade a mezzanotte?,Data_scadenza_corso
+Buongiorno quando è la scadenza? è possibile prorogare il periodo?grazie ,Data_scadenza_corso
+Come posso fare per avere l'attestato e il verbale di riepilogo del corso? ,Richiesta_attestato
+Buongiorno io seguito il corso 7 item su 7 (100%) Ma non sono abilitata a fare il download dell'attestato mi dice che il corso non è ancora concluso. Come mai? Ho superato il test con successo. Grazie Saluti,Richiesta_attestato
+Buongiorno a suo tempo avevo fatto il corso Sicurezza e Ambiente ma non avevo scaricato l'attestato e quindi mi da ancora corso non concluso. Cosa posso fare? Grazie Saluti,Corso_scaduto
+buongiorno purtroppo non sono riuscita a completare il corso a causa di impegni lavorativi mi mancherebbero solo 1h30 non è possibile riattivarlo solo per oggi per poterlo concludere? ,Corso_scaduto
+buongiorno tutor volevo sapere quanti tentativi per i test ci sono prima facendo quello sulla 231 mi è apparsa la scritta che i tentativi massimi sono 5 ma poi all'esterno del test c è scritto 10 tentativi,Numero_tentativi_test
+cosa succede se non supero i 5 tentativi del test? ,Numero_tentativi_test
+e' possibile interrompere il corso riprendere in un secondo momento senza perdere quanto già fatto?,Riprendere_corso_successivamente
+posso riprender anche dopo?,Riprendere_corso_successivamente
+Buonasera volevo gentilmente sapere se il corso deve essere iniziato e finito nella stessa giornata o posso frazionarlo in più giornate? Grazie,Riprendere_corso_successivamente
+chiedo scusa l'attestato del corso dice che sono dipendente Fincantieri in realtà sono dipendente Delfi è da correggere ?grazie ,Correzione_anagrafica
+Buongiorno volevo segnalare che i miei dati anagrafici nella prima pagina per l'accetazione del contratto sono errati (data di nascita),Correzione_anagrafica
+Buongiorno. la data di nascita inserita nel contratto è errata.,Correzione_anagrafica
+salve Ho completato il corso ma il mio tempo di fruizione è risultato di circa 3 minuti inferiore a quella prevista e quindi non ho accesso al download dell'attestato. La cosa comporta problemi per considerare il corso come completato?,Concluso_prima_tempo_simato
+Buongiorno la disturbo perchè non riesco a scaricare l'attestato del corso che è stato ultimato. il suo tempo di fruizione del corso (003:35:22) è inferiore a quello minimo stabilito e previsto (003:36:00). è possibile sbloccarlo? ,Concluso_prima_tempo_simato
+Non riesco a scaricare l'attestato perché il tempo di fruizione del corso (003:34:17) è inferiore a quello minimo stabilito e previsto (003:36:00). Come posso fare? ,Concluso_prima_tempo_simato
+"Buongiorno Il filmato introduzione della sezione ""incendio: misure di prevenzione e protezione"" dà lo stesso problema di ieri. Mi spiace disturbarvi ma fino a questo momento non avevo riscontrato problemi",Blocco_corso_generico
+Vi comunico che il Filmato - Video e posizioni (sedersi bene per stare bene) per la seconda volta mi impedisce di completarlo. Al minuto 7:04 su 7:05 si blocca. Come posso procedere?,Blocco_corso_generico
